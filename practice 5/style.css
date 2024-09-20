@@ -1,0 +1,15 @@
+.widget, .cell {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.cell {
+    text-align: right;
+}
